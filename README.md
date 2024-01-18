@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nschwartz25
-- - 😄 Pronouns: he/him
+- 😄 Pronouns: he/him
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning "R"
 
